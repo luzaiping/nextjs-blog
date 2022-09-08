@@ -44,6 +44,9 @@ export default function Home({ allPostsData }) {
           ))}
         </ul>
       </section>
+      <section>
+        This content is used to test vercel-dps feature.
+      </section>
     </Layout>
   );
 }
